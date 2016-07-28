@@ -1,7 +1,7 @@
 package hello.main.java;
 
 /**
- * Created by Leonid on 28.07.2016.
+ * Created by Leonid Shutov on 28.07.2016.
  */
 public class Greeting {
     private final long id;
